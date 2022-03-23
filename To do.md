@@ -1,7 +1,7 @@
 ## HangmenHD
 ### The game of games.
 ---
-**To do:**
+**Pseudocode:**
 * make a list of words
 * pick one word randomly
 * chop this word into letters
@@ -17,4 +17,9 @@
     * else
         * reduce life by one and repeat
 
-fix the problem with valid double input
+**Tasks:**  
+Convert input or word to upper/lower  
+Create menu where the user can change the list of words
+
+
+
